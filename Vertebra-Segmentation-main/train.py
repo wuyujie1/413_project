@@ -179,3 +179,4 @@ def run(loss="DiceBCE"):
 
 if __name__ == "__main__":
     run("Boundary")
+    #run("BoundaryModified")
